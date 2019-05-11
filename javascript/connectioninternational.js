@@ -1,1 +1,4 @@
-this dick tastes good
+$(document).ready(function(){
+
+    
+}) 
